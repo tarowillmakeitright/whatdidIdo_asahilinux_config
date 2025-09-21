@@ -36,3 +36,6 @@ change the configuration
 ```
 sudo dnf install tmux
 ```
+[My PlugIn for tmux](https://github.com/tarowillmakeitright/tmuxconf)
+
+[Here is example what I've refrenced](https://github.com/tmux-plugins/tpm)
