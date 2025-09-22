@@ -39,3 +39,18 @@ sudo dnf install tmux
 [My PlugIn for tmux](https://github.com/tarowillmakeitright/tmuxconf)
 
 [Here is example what I've refrenced](https://github.com/tmux-plugins/tpm)
+
+- wikiman
+
+This is useful for additional deatails of commands when you want to look up a coomand like a "man" command does.
+
+[Here is github](https://github.com/filiparag/wikiman)
+
+---
+
+- tldr
+  
+When you want to look up a command and would like to understand the command immidiately, it is very useful.
+
+[TLDR github](https://github.com/tldr-pages/tldr)
+   
