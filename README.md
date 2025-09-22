@@ -1,6 +1,4 @@
-Perfect 👍 thanks for sharing the exact list with commands and links. Here’s a polished `README.md` draft based on what you’ve installed so far for Asahi Linux:
 
-````markdown
 # Asahi Linux Packages Setup
 
 Hey 👋 welcome!  
@@ -81,8 +79,3 @@ Great for quick command usage examples.
 * My goal is to keep the environment minimal but powerful for development.
 
 🚀 Thanks for visiting — feel free to use these commands as a reference for your own setup!
-
-```
-
-Would you like me to also add a **“Future Plans”** section at the bottom (like packages you’re considering next: `htop`, `fzf`, `bat`, etc.), or keep it strictly to what you’ve already installed?
-```
