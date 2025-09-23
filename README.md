@@ -73,6 +73,12 @@ Great for quick command usage examples.
 
 ---
 
+### Brave
+
+the default brwoser
+
+[Brave Official](https://brave.com/linux/)
+
 ## Notes
 
 * This list will expand as I continue customizing Asahi Linux.
