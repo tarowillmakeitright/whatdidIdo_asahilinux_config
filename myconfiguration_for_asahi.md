@@ -53,4 +53,11 @@ This is useful for additional deatails of commands when you want to look up a co
 When you want to look up a command and would like to understand the command immidiately, it is very useful.
 
 [TLDR github](https://github.com/tldr-pages/tldr)
+
+---
+
+- Brave
+the default brwoser
+
+[Brave official](https://brave.com/linux/)
    
